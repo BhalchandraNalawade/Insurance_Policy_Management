@@ -14,6 +14,8 @@ public class Claim {
 
     private String claimNumber;
 
+	private String claimNominee
+
     private Double claimAmount;
 
     private String claimStatus;
