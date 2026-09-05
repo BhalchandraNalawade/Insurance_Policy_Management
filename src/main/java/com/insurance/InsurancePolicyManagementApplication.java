@@ -19,4 +19,9 @@ public class InsurancePolicyManagementApplication {
 		String name = "Bigbee";
 	}
 
+        public cat(){
+        
+           Sysystem.out.println();
+       }
+
 }
