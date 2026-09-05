@@ -31,4 +31,13 @@ public class InsurancePolicyManagementApplication {
             int j = 20;
        }
 
+       // JIRA-106
+       public void m1(){
+            
+            int i = 11;
+            int j = 22;
+       }
+
+
+
 }
