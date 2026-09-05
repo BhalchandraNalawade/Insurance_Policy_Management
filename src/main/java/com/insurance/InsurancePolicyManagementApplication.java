@@ -13,6 +13,9 @@ public class InsurancePolicyManagementApplication {
 		String name = "Ashokit";
                 int k = 30;
 		boolean status = "False";
+
+
+                String name = "Ram";
 	}
 
 }
