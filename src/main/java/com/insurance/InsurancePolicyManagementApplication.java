@@ -25,6 +25,7 @@ public class InsurancePolicyManagementApplication {
         
            Sysystem.out.println();
            System.out.println("I");
+           Sysystem.out.println("Add");
        }
 
 }
