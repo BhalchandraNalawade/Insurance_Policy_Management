@@ -16,6 +16,7 @@ public class InsurancePolicyManagementApplication {
 
 
                 String name = "Ram";
+		String name = "Bigbee";
 	}
 
 }
