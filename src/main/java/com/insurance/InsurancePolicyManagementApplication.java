@@ -23,7 +23,7 @@ public class InsurancePolicyManagementApplication {
 
         public cat(){
         
-           Sysystem.out.println();
+           Sysystem.out.println("Add");
        }
 
 }
