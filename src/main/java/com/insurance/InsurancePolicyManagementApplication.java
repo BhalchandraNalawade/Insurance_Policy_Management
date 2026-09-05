@@ -8,16 +8,7 @@ public class InsurancePolicyManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InsurancePolicyManagementApplication.class, args);
-                int i = 10;
-                int j = 20;
-		String name = "Ashokit";
-                int k = 30;
-		boolean status = "False";
-
-
-                String name = "Ram";
-		String name = "Bigbee";
-
+               
 	}
 
         public cat(){
