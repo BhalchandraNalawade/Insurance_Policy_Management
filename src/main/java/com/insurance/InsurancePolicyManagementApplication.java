@@ -14,8 +14,6 @@ public class InsurancePolicyManagementApplication {
 
        public static void main(String[] args) {
 		SpringApplication.run(InsurancePolicyManagementApplication.class, args);
-
-                int i = 2012;
                
 	}
 
