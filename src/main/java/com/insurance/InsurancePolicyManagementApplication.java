@@ -5,8 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class InsurancePolicyManagementApplication {
+         
+       // JIRA-102
+       public void m2(){
+           
+          // logic
+       }
 
-	public static void main(String[] args) {
+       public static void main(String[] args) {
 		SpringApplication.run(InsurancePolicyManagementApplication.class, args);
                
 	}
