@@ -24,6 +24,7 @@ public class InsurancePolicyManagementApplication {
         public cat(){
         
            Sysystem.out.println();
+           System.out.println("I");
        }
 
 }
